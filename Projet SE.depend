@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1639228103 source:c:\users\alexb\desktop\projet se\fifo.c
+	<stdio.h>
+	<stdlib.h>
+	<sched.h>
+	<unistd.h>
+
+1639309046 source:c:\users\alexb\desktop\projet se\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sched.h>
+	<stdbool.h>
+	<limits.h>
+	<unistd.h>
+	"FIFO.h"
+	"SJF.h"
+	"SRT.h"
+	"RR.h"
+	"priorite_preemptive.h"
+	<dirent.h>
+	<sys/types.h>
+	<string.h>
+
+1638189507 c:\users\alexb\desktop\projet se\fifo.h
+
+1638190447 c:\users\alexb\desktop\projet se\sjf.h
+
+1638007673 c:\users\alexb\desktop\projet se\rr.h
+
+1639228094 source:c:\users\alexb\desktop\projet se\rr.c
+	<stdio.h>
+	<stdlib.h>
+	<sched.h>
+	<unistd.h>
+
+1639228078 source:c:\users\alexb\desktop\projet se\sjf.c
+	<stdio.h>
+	<stdlib.h>
+	<sched.h>
+	<unistd.h>
+	<stdbool.h>
+	<limits.h>
+
+1639229306 c:\users\alexb\desktop\projet se\srt.h
+
+1639229438 source:c:\users\alexb\desktop\projet se\srt.c
+	<stdio.h>
+	<stdlib.h>
+
+1639311941 source:c:\users\alexb\desktop\projet se\priorite_preemptive.c
+	<stdio.h>
+
+1639227260 c:\users\alexb\desktop\projet se\priorite_preemptive.h
+

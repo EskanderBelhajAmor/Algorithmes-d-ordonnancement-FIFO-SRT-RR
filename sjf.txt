@@ -1,0 +1,18 @@
+Ordonnancement SJF
+Processus	 DA	 TE
+a		 0ms 	 6ms
+b		 1ms 	 6ms
+c		 2ms 	 2ms
+d		 5ms 	 4ms
+e		 10ms 	 8ms
+
+****date de fin d'execution des 5 processus****
+a	b	c	d	e	
+6ms	18ms	8ms	12ms	26ms	
+*******TEMPS D ATTENTE*******
+a	b	c	d	e	
+0ms	11ms	4ms	3ms	8ms	
+*******TEMPS MOYEN *******
+
+temps moyenne de rotation= 10.400000 
+temps moyenne d'attente= 5.200000 

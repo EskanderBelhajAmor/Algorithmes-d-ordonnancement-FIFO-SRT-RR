@@ -1,0 +1,6 @@
+bonjour
+a 0 3 4 #ce_processus_arrive_ici
+b 1 6 2   
+c 4 4 6
+d 6 2 3 #ce_processus_arrive_ici
+e 7 1 2

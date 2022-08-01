@@ -1,0 +1,16 @@
+Ordonnancement FIFO
+Processus	 DA	 TE
+a		 1ms 	 6ms
+b		 2ms 	 5ms
+c		 3ms 	 2ms
+d		 5ms 	 4ms
+e		 7ms 	 2ms
+
+****date de fin d'execution des 5 processus****
+a	b	c	d	e	
+6ms	11ms	13ms	17ms	19ms	
+*******TEMPS DE SEJOUR*******
+a	b	c	d	e	
+5ms	9ms	10ms	12ms	12ms	
+*******TEMPS MOYEN DE SEJOUR*******
+le temps moyen de sejour est (temps moyen sejour= 10.600000ms
